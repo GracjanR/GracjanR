@@ -32,7 +32,7 @@ My name is Gracjan and I'm a 16 year old learning programming. I'm interested in
 
 <a href="https://fb.com/https://www.facebook.com/gracjan.rapita" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/gracjan.rapita" height="30" width="40" /></a>
 <a href="https://instagram.com/gracjanrapitaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gracjanrapitaa" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucyjmzoszh0milbsugvdsxuw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucyjmzoszh0milbsugvdsxuw" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCyjMZOsZH0MilbSUGVDsXUw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucyjmzoszh0milbsugvdsxuw" height="30" width="40" /></a>
 <a href="https://discord.gg/Gracjan#8920" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Gracjan#8920" height="30" width="40" /></a>
 
 
