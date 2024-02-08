@@ -2,7 +2,7 @@
 # ɢʀᴀᴄᴊᴀɴ ʀᴀᴘɪᴛᴀ
 👨‍💻A young developer with a passion for creating new solutions.<br>💪 Ready for challenges and learning. <br>🤝I invite you to cooperation!
 
-## About me 
+## 🧑‍🦱About me
 Zajmuję się tworzeniem stron internetowych i sklepów online, a także kieruję strategią marketingową dla małych firm na social mediach. Chcę pomóc Ci w osiągnięciu sukcesu online! Skontaktuj się ze mną, abyśmy mogli wspólnie stworzyć coś wyjątkowego dla Twojego biznesu!
 
 
