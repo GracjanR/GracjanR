@@ -2,6 +2,9 @@
 # ɢʀᴀᴄᴊᴀɴ ʀᴀᴘɪᴛᴀ
 👨‍💻A young developer with a passion for creating new solutions.<br>💪 Ready for challenges and learning. <br>🤝I invite you to cooperation!
 
+## About me 
+Zajmuję się tworzeniem stron internetowych i sklepów online, a także kieruję strategią marketingową dla małych firm na social mediach. Chcę pomóc Ci w osiągnięciu sukcesu online! Skontaktuj się ze mną, abyśmy mogli wspólnie stworzyć coś wyjątkowego dla Twojego biznesu!
+
 
 ## ✉️ Contact:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/gracjan.rapita/) <br>
