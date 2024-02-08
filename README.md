@@ -4,7 +4,7 @@
 
 
 ## ✉️ Contact:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/gracjan.rapita/) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/gracjan.rapita/) <br>
 rapitagracjan@gmail.com
 
 # 💻 Tech Stack:
