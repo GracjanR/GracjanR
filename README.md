@@ -1,5 +1,5 @@
 
-# Gracjan Rapita
+# ɢʀᴀᴄᴊᴀɴ ʀᴀᴘɪᴛᴀ
 👨‍💻A young developer with a passion for creating new solutions.<br>💪 Ready for challenges and learning. <br>🤝I invite you to cooperation!
 
 
