@@ -3,10 +3,10 @@
 
 Zajmuję się tworzeniem stron internetowych i sklepów online, a także kieruję strategią marketingową dla małych firm na social mediach. Chcę pomóc Ci w osiągnięciu sukcesu online! Skontaktuj się ze mną, abyśmy mogli wspólnie stworzyć coś wyjątkowego dla Twojego biznesu!<br>
 
-✅ Kreacja stron internetowych i sklepów online<br>
-✅ Precyzyjne zarządzanie marketingiem w Google i mediach społecznościowych<br>
-✅ Dążenie do wspierania sukcesu online<br>
-✅ Gotowość do pomocy w realizacji celów biznesowych<br>
+✅ Kreacja stron internetowych i sklepów online.<br>
+✅ Precyzyjne zarządzanie marketingiem w Google i mediach społecznościowych.<br>
+✅ Dążenie do wspierania sukcesu online.<br>
+✅ Gotowość do pomocy w realizacji celów biznesowych.<br>
 
 ## 🧑‍🦱About me
 
